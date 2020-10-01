@@ -2704,7 +2704,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C678)
-    (at 298.196 121.158 180)
+    (at 298.62272 121.412 180)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C733)
@@ -3046,7 +3046,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C64E)
-    (at 210.82 136.652 188)
+    (at 210.80476 136.78916 188)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C673)
@@ -3082,7 +3082,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C642)
-    (at 146.558 131.572 278)
+    (at 146.878771 131.528528 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F828435)
@@ -3118,7 +3118,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C636)
-    (at 75.692 126.746 262)
+    (at 75.957077 126.859872 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F8283D5)
@@ -3154,7 +3154,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C62A)
-    (at 317.5 121.158 180)
+    (at 317.67272 121.412 180)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C787)
@@ -3190,7 +3190,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C61E)
-    (at 279.654 121.158 180)
+    (at 279.57272 121.412 180)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C727)
@@ -3226,7 +3226,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C612)
-    (at 195.58 123.952 278)
+    (at 195.945763 124.636203 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C667)
@@ -3262,7 +3262,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C606)
-    (at 113.284 131.572 262)
+    (at 113.232409 132.100544 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F828429)
@@ -3298,7 +3298,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C5FA)
-    (at 51.816 123.19 262)
+    (at 51.929509 123.480294 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F8283C9)
@@ -3334,7 +3334,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C5EE)
-    (at -16.66875 121.412 270)
+    (at -16.79956 121.59488 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F805486)
@@ -3370,7 +3370,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C5E2)
-    (at 290.322 106.68 270)
+    (at 290.36772 107.315 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C71B)
@@ -3406,7 +3406,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C5D6)
-    (at 228.346 101.854 270)
+    (at 228.46919 102.55123 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C6BB)
@@ -3442,7 +3442,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C5CA)
-    (at 184.15 106.68 278)
+    (at 184.228128 107.047087 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C65B)
@@ -3478,7 +3478,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C5BE)
-    (at 146.558 112.014 278)
+    (at 146.498915 112.349582 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F82841D)
@@ -3514,7 +3514,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C5B2)
-    (at 82.804 108.458 262)
+    (at 82.874389 108.592558 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F8283BD)
@@ -3550,7 +3550,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C5A6)
-    (at 45.212 103.124 262)
+    (at 45.145176 103.290063 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F810343)
@@ -3586,7 +3586,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C59A)
-    (at 247.65 101.854 270)
+    (at 247.97893 102.55123 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C70F)
@@ -3622,7 +3622,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C58E)
-    (at 202.946 103.886 278)
+    (at 203.092735 104.39584 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C6AF)
@@ -3658,7 +3658,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C582)
-    (at 165.263519 109.396804 278)
+    (at 165.363521 109.698335 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C64F)
@@ -3694,7 +3694,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C576)
-    (at 101.854 110.998 262)
+    (at 101.738996 111.243806 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F828411)
@@ -3730,7 +3730,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C56A)
-    (at 64.008 105.918 262)
+    (at 64.009782 105.941311 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F8283B1)
@@ -3766,7 +3766,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C55E)
-    (at 23.622 102.39375 270)
+    (at 23.68169 102.55123 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F810337)
@@ -3802,7 +3802,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C552)
-    (at -16.66875 102.39375 270)
+    (at -16.33982 102.55123 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F80546E)
@@ -3838,7 +3838,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C546)
-    (at 304.546 77.978 270)
+    (at 304.65649 78.73873 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C763)
@@ -3874,7 +3874,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C53A)
-    (at 259.334 82.804 270)
+    (at 259.88518 83.50123 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C703)
@@ -3910,7 +3910,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C52E)
-    (at 218.948 82.55 270)
+    (at 218.94419 83.50123 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C6A3)
@@ -3946,7 +3946,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C522)
-    (at 176.784 88.392 278)
+    (at 176.860729 88.845293 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C643)
@@ -3982,7 +3982,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C516)
-    (at 138.938 93.472 278)
+    (at 139.131515 94.147788 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F828405)
@@ -4018,7 +4018,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C50A)
-    (at 75.946 87.63 262)
+    (at 76.093333 88.402328 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F8283A5)
@@ -4054,7 +4054,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C4FE)
-    (at 38.354 82.042 262)
+    (at 38.36412 83.099833 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F81032B)
@@ -4090,7 +4090,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C4F2)
-    (at 237.998 82.804 270)
+    (at 237.99419 83.50123 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C6F7)
@@ -4126,7 +4126,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C4E6)
-    (at 195.58 85.852 278)
+    (at 195.725335 86.194045 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C697)
@@ -4162,7 +4162,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C4DA)
-    (at 157.734 90.932 278)
+    (at 157.996122 91.49654 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C637)
@@ -4198,7 +4198,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C4CE)
-    (at 94.996 90.424 262)
+    (at 94.95794 91.053576 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F8283F9)
@@ -4234,7 +4234,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C4C2)
-    (at 57.404 84.582 262)
+    (at 57.228727 85.75108 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F828399)
@@ -4270,7 +4270,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C4B6)
-    (at 16.764 82.55 270)
+    (at 16.83639 83.50758 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F81031F)
@@ -4306,7 +4306,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C4AA)
-    (at -9.652 82.804 270)
+    (at -9.35736 83.50758 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F7FE572)
@@ -4342,7 +4342,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C49E)
-    (at 299.72 67.818 270)
+    (at 299.89399 66.29273 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C74B)
@@ -4378,7 +4378,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C492)
-    (at 242.57 63.754 270)
+    (at 242.75669 64.45123 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C6EB)
@@ -4414,7 +4414,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C486)
-    (at 202.438 65.786 278)
+    (at 202.506391 66.003814 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C68B)
@@ -4450,7 +4450,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C47A)
-    (at 164.592 70.612 278)
+    (at 164.777178 71.30631 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C62B)
@@ -4486,7 +4486,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C46E)
-    (at 126.746 75.438 278)
+    (at 127.047964 76.608805 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F8283ED)
@@ -4522,7 +4522,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C462)
-    (at 74.168 67.818 262)
+    (at 74.028429 68.874909 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F82838D)
@@ -4558,7 +4558,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C456)
-    (at 36.068 63.754 262)
+    (at 36.299216 63.572414 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F810313)
@@ -4594,7 +4594,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C44A)
-    (at 268.224 63.754 270)
+    (at 268.95044 64.45123 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C73F)
@@ -4630,7 +4630,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C43E)
-    (at 223.52 63.5 270)
+    (at 223.70669 64.45123 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C6DF)
@@ -4666,7 +4666,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C432)
-    (at 183.642 68.326 278)
+    (at 183.641785 68.655062 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C67F)
@@ -4702,7 +4702,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C426)
-    (at 145.542 73.152 278)
+    (at 145.912571 73.957557 278)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F88C61F)
@@ -4738,7 +4738,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C41A)
-    (at 92.71 70.866 262)
+    (at 92.893036 71.526157 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F8283E1)
@@ -4774,7 +4774,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C40E)
-    (at 55.372 65.024 262)
+    (at 55.163823 66.223662 262)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F828381)
@@ -4810,7 +4810,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C402)
-    (at 14.478 63.246 270)
+    (at 14.73454 64.45123 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F810307)
@@ -4846,7 +4846,7 @@
   )
 
   (module kbd:D3_TH (layer B.Cu) (tedit 5F43EB01) (tstamp 5F75C3F6)
-    (at -9.398 63.754 270)
+    (at -9.07796 64.45123 270)
     (descr "Resitance 3 pas")
     (tags R)
     (path /5F7F356B)
