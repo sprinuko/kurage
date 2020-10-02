@@ -1634,9 +1634,9 @@ Text GLabel 1400 6400 0    50   Input ~ 0
 ROW5
 Text GLabel 1400 6300 0    50   Input ~ 0
 ROW4
-Text GLabel 1400 5800 0    50   Input ~ 0
-ROW7
 Text GLabel 1400 5700 0    50   Input ~ 0
+ROW7
+Text GLabel 1400 5800 0    50   Input ~ 0
 ROW6
 Text GLabel 1400 6700 0    50   Input ~ 0
 ROW0
