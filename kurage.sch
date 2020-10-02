@@ -1495,32 +1495,6 @@ SDA
 Text GLabel 1400 6200 0    50   Input ~ 0
 SCL
 Wire Wire Line
-	1400 6000 1650 6000
-Wire Wire Line
-	1400 5900 1650 5900
-$Comp
-L power:GND #PWR04
-U 1 1 5F757B79
-P 1400 6000
-F 0 "#PWR04" H 1400 5750 50  0001 C CNN
-F 1 "GND" V 1405 5872 50  0000 R CNN
-F 2 "" H 1400 6000 50  0001 C CNN
-F 3 "" H 1400 6000 50  0001 C CNN
-	1    1400 6000
-	0    1    1    0   
-$EndComp
-$Comp
-L power:GND #PWR02
-U 1 1 5F756E27
-P 1400 5900
-F 0 "#PWR02" H 1400 5650 50  0001 C CNN
-F 1 "GND" V 1405 5772 50  0000 R CNN
-F 2 "" H 1400 5900 50  0001 C CNN
-F 3 "" H 1400 5900 50  0001 C CNN
-	1    1400 5900
-	0    1    1    0   
-$EndComp
-Wire Wire Line
 	3300 6000 3050 6000
 $Comp
 L power:+5V #PWR03
@@ -1634,22 +1608,6 @@ Wire Wire Line
 	3300 6200 3050 6200
 Wire Wire Line
 	3050 6100 3300 6100
-Text GLabel 1400 6800 0    50   Input ~ 0
-ROW6
-Text GLabel 1400 6700 0    50   Input ~ 0
-ROW7
-Text GLabel 1400 6500 0    50   Input ~ 0
-ROW5
-Text GLabel 1400 6600 0    50   Input ~ 0
-ROW4
-Text GLabel 1400 6300 0    50   Input ~ 0
-ROW3
-Text GLabel 1400 6400 0    50   Input ~ 0
-ROW2
-Text GLabel 1400 5800 0    50   Input ~ 0
-ROW1
-Text GLabel 1400 5700 0    50   Input ~ 0
-ROW0
 Wire Wire Line
 	1400 6800 1650 6800
 Wire Wire Line
@@ -1666,4 +1624,20 @@ Wire Wire Line
 	1400 5800 1650 5800
 Wire Wire Line
 	1650 5700 1400 5700
+Text GLabel 1400 6600 0    50   Input ~ 0
+ROW3
+Text GLabel 1400 6500 0    50   Input ~ 0
+ROW2
+Text GLabel 1400 6800 0    50   Input ~ 0
+ROW1
+Text GLabel 1400 6400 0    50   Input ~ 0
+ROW5
+Text GLabel 1400 6300 0    50   Input ~ 0
+ROW4
+Text GLabel 1400 5800 0    50   Input ~ 0
+ROW7
+Text GLabel 1400 5700 0    50   Input ~ 0
+ROW6
+Text GLabel 1400 6700 0    50   Input ~ 0
+ROW0
 $EndSCHEMATC
