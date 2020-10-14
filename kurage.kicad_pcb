@@ -1025,7 +1025,7 @@
     (pad "" thru_hole circle (at 0 0) (size 6.5 6.5) (drill 4.2) (layers *.Cu *.Mask))
   )
 
-  (module kbd:M2_HOLE (layer F.Cu) (tedit 5CD83928) (tstamp 5F7CE932)
+  (module kbd:M2_HOLE (layer F.Cu) (tedit 5CD83928) (tstamp 5F7F2F21)
     (at 78.68158 133.23062)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
