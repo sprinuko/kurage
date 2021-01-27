@@ -5,4 +5,4 @@
 
 qmk compatible, uses a promicro/other similar boards
 
-designed with full hotswapability in mind
+designed to be fully hotswappable
